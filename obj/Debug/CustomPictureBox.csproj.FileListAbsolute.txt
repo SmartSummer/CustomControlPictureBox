@@ -1,0 +1,6 @@
+G:\vs2010Pro\CustomPictureBox\bin\Debug\CustomPictureBox.dll
+G:\vs2010Pro\CustomPictureBox\bin\Debug\CustomPictureBox.pdb
+G:\vs2010Pro\CustomPictureBox\obj\Debug\CustomPictureBox.PicBox.resources
+G:\vs2010Pro\CustomPictureBox\obj\Debug\CustomPictureBox.csproj.GenerateResource.Cache
+G:\vs2010Pro\CustomPictureBox\obj\Debug\CustomPictureBox.dll
+G:\vs2010Pro\CustomPictureBox\obj\Debug\CustomPictureBox.pdb
